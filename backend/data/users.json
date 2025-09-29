@@ -5,5 +5,12 @@
     "email": "saimrais@gmail.com",
     "password": "$2a$12$Iaso.meDWQQT1TuRPLX93O/cCCJZODvE/pPFpvPiucI7jtQD6orxS",
     "createdAt": "2025-09-29T21:51:34.722Z"
+  },
+  {
+    "id": "1759184513882",
+    "username": "Rais Saaim",
+    "email": "sa@gmail.com",
+    "password": "$2a$12$MdJGKitnp0JlORW1BTELJOzTVOiPbvHUdQ42OUMStnGZpW5jgh6Ya",
+    "createdAt": "2025-09-29T22:21:53.882Z"
   }
 ]

@@ -92,15 +92,15 @@ const Dashboard = ({ user, onLogout }) => {
             <h2>Financial Summary</h2>
             <div className="summary-item">
               <span>Total Income:</span>
-              <span className="income">${summary.totalIncome.toFixed(2)}</span>
+              <span className="income">₹{summary.totalIncome.toFixed(2)}</span>
             </div>
             <div className="summary-item">
               <span>Total Expenses:</span>
-              <span className="expense">${summary.totalExpense.toFixed(2)}</span>
+              <span className="expense">₹{summary.totalExpense.toFixed(2)}</span>
             </div>
             <div className="summary-item">
               <span>Balance:</span>
-              <span className="balance">${summary.balance.toFixed(2)}</span>
+              <span className="balance">₹{summary.balance.toFixed(2)}</span>
             </div>
           </div>
 
